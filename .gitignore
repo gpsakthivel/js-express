@@ -1,0 +1,3 @@
+# Ignore below files in this repo
+**/node_modules
+**/package-lock.json
